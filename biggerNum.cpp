@@ -1,3 +1,5 @@
+//min, max array
+//By Baric
 #include <iostream>
 
 using namespace std;
